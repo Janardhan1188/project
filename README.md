@@ -10,7 +10,7 @@ Here I have done different functionalities like **SignUp**, **SignIn**, **view p
 
 In my project I have used **Factory Design** pattern to create object.
 
-And I have imolemented database connectivity using **JDBC**.
+And I have implemented database connectivity using **JDBC**.
 
 I have created my database table in **RUNSQL Command Prompt**.
 
@@ -22,7 +22,7 @@ In my project I also performed the **logging** to store the user information int
 
 And I also implemented **Unit Testing** to check the test cases.
 
-Finnaly I pushed my project into a **GitHub** Account and also created my **README file**.
+Finally I pushed my project into a **GitHub** Account and also created my **README file**.
 
 
 
