@@ -1,28 +1,19 @@
-# project
-My Name is **K Janardhan**
+Gathered and Analyzed requirements for this project.
 
-Here I am presenting my fundamental project.
+Worked on Eclipse and Oracle.
 
-My project name is **Facebook Project**.
+JDBC is used to connect database,send queries and statements to the database.
 
-Here I have done different functionalities like **SignUp**, **SignIn**, **view profile**, **viewAll profile**, **delete profile**, **edit profile**,
-**search profile**, and **Create timeline**.
+Created Factory Design Pattern to create object.
 
-In my project I have used **Factory Design** pattern to create object.
+Applied core concepts of Java.
 
-And I have implemented database connectivity using **JDBC**.
+Tested the quality of code using JUnit.
 
-I have created my database table in **RUNSQL Command Prompt**.
+Created  database table in RunSql Command Prompt.
 
-In my project I also used **Comparator Interface** to viewAll profile in sorted order that is sort by name.
+Maintained Versions usinf Github in this application.
 
-I also created the **User Defined Exception** in createprofile functionality to check whether the name of the user is correct or wrong.
-
-In my project I also performed the **logging** to store the user information into a file.
-
-And I also implemented **Unit Testing** to check the test cases.
-
-Finally I pushed my project into a **GitHub** Account and also created my **README file**.
 
 
 
